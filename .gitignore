@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+data/feedback_matrix.pkl
+tmp/
+results/previous_three_strategy_run/
+results/wordle_probability_project_report.pdf
